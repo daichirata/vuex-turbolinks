@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "A Turbolinks adapter for Vuex store",
   "main": "dist/vuex-turbolinks.js",
-  "module": "index.js",
   "author": "Daichi HIRATA <daichirata@gmail.com>",
   "scripts": {
     "build": "rollup -c --name vuex-turbolinks --input index.js"
