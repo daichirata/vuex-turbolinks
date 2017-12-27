@@ -1,6 +1,6 @@
 {
   "name": "vuex-turbolinks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Turbolinks adapter for Vuex store",
   "main": "dist/vuex-turbolinks.js",
   "author": "Daichi HIRATA <daichirata@gmail.com>",
